@@ -1,0 +1,2 @@
+Logo图片说明：
+请将您提供的logo图片保存到此文件夹，命名为 logo.png 或 logo.jpg
